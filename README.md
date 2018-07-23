@@ -1,4 +1,4 @@
-# face-detection-web
+# zerocv
 
 ZeroCV is only implementation of ZeroMQ and OpenCV to solve the problem how to use c++ opencv code to web platform.
 
