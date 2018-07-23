@@ -21,5 +21,8 @@ $ make
 $ ./server
 ```
 
-
 to run client: node app.js in client directory. node js running in localhost: 3001
+
+### Demo
+
+[Alt Text](demo.gif)
