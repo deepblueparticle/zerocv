@@ -25,4 +25,4 @@ to run client: node app.js in client directory. node js running in localhost: 30
 
 ### Demo
 
-[Alt Text](demo.gif)
+![Alt Text](demo.gif)
